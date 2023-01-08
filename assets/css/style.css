@@ -2857,7 +2857,7 @@ textarea.form-control {
         left: -200px;
         top: 0;
         bottom: 0;
-        background-color: var(--dark-color1);
+        background-color: var(--white-color);
         z-index: 999;
         width: 200px;
         border-right: 2px solid var(--secondary-color);
@@ -3101,7 +3101,7 @@ textarea.form-control {
 }
 }
 
-.as_logo a img{
+.as_logo a img,.as_footer_logo a img{
     width:260px;
 }
 
