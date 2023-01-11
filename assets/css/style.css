@@ -3102,6 +3102,16 @@ textarea.form-control {
 }
 
 .as_logo a img,.as_footer_logo a img{
-    width:360px;
+    width:560px;
+}
+
+.as_footer_widget ul li{
+    font-size: 16px;
+}
+
+@media (max-width: 600px){
+    .as_logo a img,.as_footer_logo a img{
+        width: 860px;
+    }
 }
 
